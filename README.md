@@ -12,3 +12,5 @@ horizontal format based PatternMatcher approach.
 * [2002-treeminer] Mohammed J. Zaki. Efficiently mining frequent trees in a forest. In 8th ACM SIGKDD International Conference Knowledge Discovery and Data Mining. July 2002.
 
 See also https://github.com/zakimjz/SLEUTH that extends the TreeMiner methodology to mine all frequent embedded or induced as well as ordered or unordered tree patterns.
+
+For the Tree data generator see  https://github.com/zakimjz/TreeGen
